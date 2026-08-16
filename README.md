@@ -9,8 +9,8 @@
   <img src="https://www.gitskins.com/api/section/portrait?username=gaearon&theme=aurora&style=terminal&mode=dark" width="100%" alt="gaearon portrait" />
 </picture></td>
 <td width="58%" valign="top"><picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=gaearon&theme=aurora&style=terminal&label=ANSH&mode=light" />
-  <img src="https://www.gitskins.com/api/section/wordmark?username=gaearon&theme=aurora&style=terminal&label=ANSH&mode=dark" width="100%" alt="gaearon wordmark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=gaearon&theme=aurora&style=terminal&label=dan&mode=light" />
+  <img src="https://www.gitskins.com/api/section/wordmark?username=gaearon&theme=aurora&style=terminal&label=dan&mode=dark" width="100%" alt="gaearon wordmark" />
 </picture></td>
 </tr>
 </table>
@@ -32,4 +32,4 @@
 
 </div>
 
-<p align="center"><sub>ANSH · Profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p align="center"><sub>dan · Profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
