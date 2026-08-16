@@ -5,12 +5,12 @@
 <table>
 <tr>
 <td width="42%" valign="top"><picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=gaearon&theme=aurora&style=terminal&mode=light" />
-  <img src="https://www.gitskins.com/api/section/portrait?username=gaearon&theme=aurora&style=terminal&mode=dark" width="100%" alt="gaearon portrait" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=Ansh&theme=aurora&style=terminal&mode=light" />
+  <img src="https://www.gitskins.com/api/section/portrait?username=Ansh&theme=aurora&style=terminal&mode=dark" width="100%" alt="Ansh portrait" />
 </picture></td>
 <td width="58%" valign="top"><picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=gaearon&theme=aurora&style=terminal&label=dan&mode=light" />
-  <img src="https://www.gitskins.com/api/section/wordmark?username=gaearon&theme=aurora&style=terminal&label=dan&mode=dark" width="100%" alt="gaearon wordmark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=Ansh&theme=aurora&style=terminal&label=dan&mode=light" />
+  <img src="https://www.gitskins.com/api/section/wordmark?username=Ansh&theme=aurora&style=terminal&label=dan&mode=dark" width="100%" alt="itz_beasty wordmark" />
 </picture></td>
 </tr>
 </table>
@@ -26,10 +26,9 @@
 <h3><code>itz_beasty</code></h3>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=gaearon&theme=aurora&style=terminal&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=gaearon&theme=aurora&style=terminal&mode=dark" width="100%" alt="gaearon heatmap" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=Ansh&theme=aurora&style=terminal&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=Ansh&theme=aurora&style=terminal&mode=dark" width="100%" alt="beasty heatmap" />
 </picture>
 
 </div>
 
-<p align="center"><sub>dan · Profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
