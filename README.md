@@ -6,7 +6,7 @@
 <tr>
 <td width="42%" valign="top"><picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=Ansh&theme=aurora&style=terminal&mode=light" />
-  <img src=["https://www.gitskins.com/api/section/portrait?](https://res.cloudinary.com/dtlyhuqa7/image/upload/v1786906462/Screenshot_2026-08-17_000621_fat31q.png)username=Ansh&theme=aurora&style=terminal&mode=dark" width="100%" alt="Ansh portrait" />
+  <img src="https://www.gitskins.com/api/section/portrait?(https://res.cloudinary.com/dtlyhuqa7/image/upload/v1786906462/Screenshot_2026-08-17_000621_fat31q.png)username=Ansh&theme=aurora&style=terminal&mode=dark" width="100%" alt="Ansh portrait" />
 </picture></td>
 <td width="58%" valign="top"><picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=Ansh&theme=aurora&style=terminal&label=dan&mode=light" />
