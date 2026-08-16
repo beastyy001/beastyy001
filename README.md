@@ -1,6 +1,6 @@
 <div align="center">
 
-<h3><code>gaearon@github ~ $ whoami</code></h3>
+<h3><code>itz_beasty</code></h3>
 
 <table>
 <tr>
@@ -23,7 +23,7 @@
 
 <div align="center">
 
-<h3><code>gaearon@github ~ $ ./contributions.sh</code></h3>
+<h3><code>itz_beasty</code></h3>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=gaearon&theme=aurora&style=terminal&mode=light" />
